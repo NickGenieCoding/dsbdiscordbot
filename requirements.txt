@@ -1,2 +1,3 @@
 discord
 html2image
+pydsb
